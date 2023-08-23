@@ -3,5 +3,5 @@ numpy
 scipy
 matplotlib
 ipython
-imageio-ffmpeg
 imageio
+imageio-ffmpeg
