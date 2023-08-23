@@ -14,5 +14,5 @@ The simulation is still in development phase.
 Try the app here: https://neuralfluid.streamlit.app/
 
 ##Authors
-- [Giacomo Bocchese] (Deep Learning Engineer, Emergent Systems Independent Researcher)
+- [Giacomo Bocchese] (Deep Learning Engineer, Independent Researcher)
 - [You] (If you enjoy the project and want to contribute)
