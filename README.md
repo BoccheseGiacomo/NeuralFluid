@@ -1,6 +1,8 @@
 # NeuralFluid
 Emergent behaviour driven Learning
 
+(Just a draft, the Learning abilities are not implemented yet)
+
 try the app here: https://neuralfluid.streamlit.app/
 
 ## 1. Introduction
